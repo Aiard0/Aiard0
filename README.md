@@ -24,6 +24,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdonwerner/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdon-werner-454aa6299)
 [![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiard0)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/378889299250249728)
 
 ### O que mais?
 - 💡 Estou sempre aberto a novas ideias e oportunidades de aprendizado. Se você tiver alguma sugestão ou conselho, adoraria ouvir!
