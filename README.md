@@ -3,16 +3,12 @@
 # Sobre mim 👨‍💻
 
 ### Quem sou eu
-- 👋 **Olá!** Eu sou **Abdon Werner**, um estudante entusiasta de Ciência da Computação na UEPB de Patos.
-- 📚 Tenho 18 anos e estou mergulhando profundamente no mundo da programação.
-
-### Minha formação
-- 🎓 Atualmente, estou cursando Ciência da Computação na UEPB de Patos, onde estou explorando os fundamentos e as aplicações da computação.
-- 🌱 Estou constantemente buscando aprender e aprimorar minhas habilidades em programação.
+- 👋 **Olá!** Eu sou **Abdon Werner**, um estudante entusiasta de Ciência da Computação na UEPB de Patos-PB.
+- 📚 Tenho 20 anos e estou mergulhando profundamente no mundo da programação.
 
 ### Minhas habilidades
-- 💻 Tenho experiência razoável em Python, uma linguagem versátil e poderosa que uso para resolver problemas e desenvolver soluções e aplicativos.
-- 🚀 Estou atualmente aprendendo Go (Golang), uma linguagem de programação moderna e eficiente que me permite criar aplicativos robustos e de alto desempenho.
+- 💻 Tenho experiência razoável em Python, Java, Golang.
+- 🚀 Estou atualmente aprendendo Spring (Java).
 
 ### Projetos recentes
 - 🛠️ Recentemente, tenho trabalhado em projetos pessoais para aplicar meus conhecimentos em programação e explorar novas tecnologias.
@@ -25,8 +21,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdon-werner-454aa6299)
 [![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aiard0)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/378889299250249728)
-
-### O que mais?
-- 💡 Estou sempre aberto a novas ideias e oportunidades de aprendizado. Se você tiver alguma sugestão ou conselho, adoraria ouvir!
-
-![](https://github-readme-stats.vercel.app/api?username=Aiard0&show_icons=true&theme=blue-green&locale=pt-br&bg_color=00000000)
