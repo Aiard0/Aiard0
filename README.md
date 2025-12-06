@@ -3,12 +3,57 @@
 # Sobre mim 👨‍💻
 
 ### Quem sou eu
-- 👋 **Olá!** Eu sou **Abdon Werner**, um estudante entusiasta de Ciência da Computação na UEPB de Patos-PB.
+- 👋 **Olá!** Eu sou **Abdon Werner**, um estudante entusiasta de Ciência da Computação na UEPB de Patos (PB).
 - 📚 Tenho 20 anos e estou mergulhando profundamente no mundo da programação.
 
-### Minhas habilidades
-- 💻 Tenho experiência razoável em Python, Java, Golang.
-- 🚀 Estou atualmente aprendendo Spring (Java).
+### Minhas experiências
+<table>
+<tr>
+<td width="30%" align="center"><b>Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=flutter" title="Flutter" alt="Flutter" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="48" height="48"/>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><b>Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=spring" title="Spring" alt="Spring" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=golang" title="Golang" alt="Golang" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=dart" title="Dart" alt="Dart" width="48" height="48"/>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><b>Banco de Dados</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="48" height="48"/>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><b>DevOps</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="Nginx" width="48" height="48"/>
+</td>
+</tr>
+<tr>
+<td width="30%" align="center"><b>Ferramentas</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=github" title="Github" alt="Github" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" width="48" height="48"/>
+<img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="48" height="48"/>
+</td>
+</tr>
+</table>
 
 ### Projetos recentes
 - 🛠️ Recentemente, tenho trabalhado em projetos pessoais para aplicar meus conhecimentos em programação e explorar novas tecnologias.
